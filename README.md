@@ -36,9 +36,9 @@
 
 ## 📫 How to Reach Me
 
-* 📧 Email: [Kerolloushesham@gmail.com](mailto:Kerolloushesham@gmail.com)
-* 💼 LinkedIn: [linkedin.com/in/kerollous-hesham](https://www.linkedin.com/in/kerollous-hesham)
-* 🧠 GitHub: [github.com/Keroloshesham](https://github.com/Keroloshesham)
+* Email: [Kerolloushesham@gmail.com](mailto:Kerolloushesham@gmail.com)
+* LinkedIn: [linkedin.com/in/kerollous-hesham](https://www.linkedin.com/in/kerollous-hesham)
+* GitHub: [github.com/Keroloshesham](https://github.com/Keroloshesham)
 
 ---
 
