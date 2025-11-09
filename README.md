@@ -1,8 +1,3 @@
-ممتاز جدًا يا كيرلس 👌
-بناءً على البيانات اللي أرسلتها، دي نسخة احترافية من **README.md** لجيت هب بتاعك — بنفس روح المثال اللي بعته، لكنها مخصصة ليك كمحلل بيانات مبتدئ:
-
----
-
 # Kerollous Hesham 👨‍💻
 
 [![Linkedin Badge](https://img.shields.io/badge/-Kerollous%20Hesham-blue?style=flat-square\&logo=Linkedin\&logoColor=white\&link=https://www.linkedin.com/in/kerollous-hesham)](https://www.linkedin.com/in/kerollous-hesham)
