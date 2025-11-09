@@ -14,12 +14,12 @@
 
 ---
 
-## 🧐 About Me
+## About Me
 
-* 🔍 I’m passionate about **data-driven decision making** and finding patterns through numbers.
-* 💪 Continuously learning and improving my skills in **Power BI**, **SQL**, **Excel**, and **Python**.
-* 📈 I enjoy working on **data cleaning, visualization, and storytelling** through dashboards.
-* 🎯 My goal is to become a **professional Data Analyst** capable of making real business impact.
+* I’m passionate about **data-driven decision making** and finding patterns through numbers.
+* Continuously learning and improving my skills in **Power BI**, **SQL**, **Excel**, and **Python**.
+* I enjoy working on **data cleaning, visualization, and storytelling** through dashboards.
+* My goal is to become a **professional Data Analyst** capable of making real business impact.
 
 ---
 
@@ -27,10 +27,10 @@
 
 | Tool / Language | Description                                     |
 | --------------- | ----------------------------------------------- |
-| 💾 SQL          | For data extraction and querying                |
-| 📊 Power BI     | For creating interactive dashboards and reports |
-| 🧮 Excel        | For data cleaning, analysis, and visualization  |
-| 🐍 Python       | For automation and advanced analytics           |
+| SQL          | For data extraction and querying                |
+| Power BI     | For creating interactive dashboards and reports |
+| Excel        | For data cleaning, analysis, and visualization  |
+| Python       | For automation and advanced analytics           |
 
 ---
 
