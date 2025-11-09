@@ -9,7 +9,7 @@
 ## 👋 Hi there, I'm Kerollous Hesham
 
 🎓 I'm a **graduate from October 6 University**, Accounting Department.
-💡 After graduation, I made a **career shift to Data Analysis** — where I found my real passion for transforming data into insights.
+💡 After graduation, I made a **career shift to Data Analysis** where I found my real passion for transforming data into insights.
 📊 Currently, I'm developing my skills and seeking an **entry-level opportunity in Data Analysis**.
 
 ---
@@ -39,12 +39,6 @@
 * Email: [Kerolloushesham@gmail.com](mailto:Kerolloushesham@gmail.com)
 * LinkedIn: [linkedin.com/in/kerollous-hesham](https://www.linkedin.com/in/kerollous-hesham)
 * GitHub: [github.com/Keroloshesham](https://github.com/Keroloshesham)
-
----
-
-## ⚡ Fun Fact
-
-I love learning new things, exploring data, and turning numbers into stories that make sense!
 
 ---
 
