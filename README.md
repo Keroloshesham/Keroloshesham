@@ -49,9 +49,3 @@ I love learning new things, exploring data, and turning numbers into stories tha
 ---
 
 ![Kerollous's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keroloshesham\&show_icons=true\&theme=tokyonight)
-
----
-
-هل تحب أضيف جزء صغير في الآخر بعنوان “📚 Projects” فيه روابط لمشاريعك (لو عندك داشبوردات أو notebooks على GitHub أو Power BI)؟
-لو تبعتلي 2–3 روابط لمشاريعك، أضيفهم بشكل منسق جدًا في القسم ده.
-
