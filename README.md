@@ -23,6 +23,21 @@
 
 ---
 
+## 📊 Projects
+
+Here are some of my recent data analysis projects:
+
+- **[Sales Dashboard – Power BI](#)**  
+  Designed an interactive dashboard to analyze sales performance and identify growth trends.
+
+- **[Customer Data Analysis – Python](#)**  
+  Cleaned and analyzed customer data using Pandas and Matplotlib to uncover purchasing patterns.
+
+- **[Excel Financial Report](#)**  
+  Automated an Excel-based financial summary using formulas and pivot tables.
+
+---
+
 ## 🛠️ Tools & Technologies
 
 | Tool / Language | Description                                     |
