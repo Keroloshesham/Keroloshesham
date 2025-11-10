@@ -32,8 +32,6 @@
 | Excel        | For data cleaning, analysis, and visualization  |
 | Python       | For automation and advanced analytics           |
 
----
-
 ## 📫 How to Reach Me
 
 * Email: [Kerolloushesham@gmail.com](mailto:Kerolloushesham@gmail.com)
