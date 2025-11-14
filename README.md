@@ -8,9 +8,9 @@
 
 ## 👋 Hi there, I'm Kerollous Hesham
 
-🎓 I'm a **graduate from October 6 University**, Accounting Department.
-💡 After graduation, I made a **career shift to Data Analysis** where I found my real passion for transforming data into insights.
-📊 Currently, I'm developing my skills and seeking an **entry-level opportunity in Data Analysis**.
+- I'm a **graduate from October 6 University**, Accounting Department.
+- After graduation, I made a **career shift to Data Analysis** where I found my real passion for transforming data into insights.
+- Currently, I'm developing my skills and seeking an **entry-level opportunity in Data Analysis**.
 
 ---
 
@@ -23,18 +23,12 @@
 
 ---
 
-## 📊 Projects
+##  Projects
 
 Here are some of my recent data analysis projects:
 
-- **[Sales Dashboard – Power BI](#)**  
-  Designed an interactive dashboard to analyze sales performance and identify growth trends.
-
-- **[Customer Data Analysis – Python](#)**  
-  Cleaned and analyzed customer data using Pandas and Matplotlib to uncover purchasing patterns.
-
-- **[Excel Financial Report](#)**  
-  Automated an Excel-based financial summary using formulas and pivot tables.
+- **[Marketing Dashboard Analysis](#)**  
+Designed an interactive dashboard to analyze marketing performance and identify growth trends.
 
 ---
 
