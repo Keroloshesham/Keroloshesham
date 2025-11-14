@@ -32,7 +32,7 @@ Designed an interactive dashboard to analyze marketing performance and identify 
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 | Tool / Language | Description                                     |
 | --------------- | ----------------------------------------------- |
@@ -41,7 +41,7 @@ Designed an interactive dashboard to analyze marketing performance and identify 
 | Excel        | For data cleaning, analysis, and visualization  |
 | Python       | For automation and advanced analytics           |
 
-## 📫 How to Reach Me
+##  How to Reach Me
 
 * Email: [Kerolloushesham@gmail.com](mailto:Kerolloushesham@gmail.com)
 * LinkedIn: [linkedin.com/in/kerollous-hesham](https://www.linkedin.com/in/kerollous-hesham)
